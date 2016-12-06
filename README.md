@@ -15,7 +15,7 @@ Pluggable browser scroll management.
 
 ## Consumers
 
-[Comm Games UI project](https://github.com/SEEK-Jobs/cg2018-ui)
+cg2018-ui project
 
 ## Usage
 
