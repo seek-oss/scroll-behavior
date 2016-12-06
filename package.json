@@ -7,9 +7,9 @@
   ],
   "main": "lib/index.js",
   "scripts": {
-    "build": "rm -rf lib && babel src -d lib",
+    "build": "rimraf lib && babel src -d lib",
     "lint": "eslint src test *.js",
-    "preinstall": "npm run build",
+    "install": "npm run build",
     "tdd": "cross-env NODE_ENV=test karma start",
     "test": "npm run lint && npm run testonly",
     "testonly": "npm run tdd -- --single-run"
