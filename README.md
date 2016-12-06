@@ -1,5 +1,11 @@
 # scroll-behavior [![Travis][build-badge]][build] [![npm][npm-badge]][npm]
 
+## Why am I forked?
+
+This repo has been forked to incorporate changes waiting to be merged here:
+https://github.com/taion/scroll-behavior/pull/109.  Should this PR get merged,
+the original module can be used instead
+
 Pluggable browser scroll management.
 
 **If you use [React Router](https://github.com/reactjs/react-router), use [react-router-scroll](https://github.com/taion/react-router-scroll), which wraps up the scroll management logic here into a React Router middleware.**
