@@ -13,6 +13,10 @@ Pluggable browser scroll management.
 [![Codecov][codecov-badge]][codecov]
 [![Discord][discord-badge]][discord]
 
+## Consumers
+
+[Comm Games UI project](https://github.com/SEEK-Jobs/cg2018-ui)
+
 ## Usage
 
 ```js
